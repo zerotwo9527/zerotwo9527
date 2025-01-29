@@ -3,7 +3,7 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=hello!+I'm+Yize)](https://git.io/typing-svg)
 
 <div >
-  <img src="https://github-readme-stats-inky-two-14.vercel.app/api?username=zerotwo9527&show_icons=true&theme=dracula&include_all_commits=true" height="200"/>
+  <img src="https://github-readme-stats-inky-two-14.vercel.app/api?username=ZeroTwo36&show_icons=true&theme=dracula&include_all_commits=true" height="200"/>
   <!-- <img src="https://github-readme-stats-inky-two-14.vercel.app/api/top-langs/?username=gouzil&theme=dracula&show_icons=true" height="200" /> -->
 </div>
 
